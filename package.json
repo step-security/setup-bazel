@@ -17,7 +17,7 @@
   "publisher": "step-security",
   "license": "MIT",
   "dependencies": {
-    "axios": "^1.20.0",
+    "axios": "^1.21.1",
     "@actions/cache": "^6.0.0",
     "@actions/core": "^3.0.0",
     "@actions/github": "^9.0.0",
